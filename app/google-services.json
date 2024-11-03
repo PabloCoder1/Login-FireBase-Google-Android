@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344529594573",
+    "project_id": "androidloginfirebase-2e2aa",
+    "storage_bucket": "androidloginfirebase-2e2aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344529594573:android:4d45e5372311a245682184",
+        "android_client_info": {
+          "package_name": "br.unisanta.androidloginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgyUY9EwPhk2aFp8exQL2CzPa5_-VwQtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
